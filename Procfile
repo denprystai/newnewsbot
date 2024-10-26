@@ -1,1 +1,1 @@
-worker: nownewnews.py
+web: ./nownewnews.py
