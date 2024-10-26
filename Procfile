@@ -1,0 +1,1 @@
+worker: nownewnews.py
